@@ -7,3 +7,6 @@ app for mobile platforms (Android) which helps students
 # Примеры подобных приложений
  1. Evernote ([Android](https://play.google.com/store/apps/details?id=com.evernote&hl=ru))
  2. Мой Волгатех ([Android](https://play.google.com/store/apps/details?id=tk.ufeudor.vtechtest&hl=en_US))
+
+# Технологии
+ К обсуждению: выбирать языки поддерживаемые Android Studio (Java, Kotlin) или писать с небольшими танцами с бубном, но на Python или на Lua
